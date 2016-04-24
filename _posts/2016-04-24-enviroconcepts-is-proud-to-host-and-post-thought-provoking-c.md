@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: EnviroConcepts is proud to host and post thought-provoking calls to action to preserve our beloved planet and reverse the damage caused by humankind.
-datePublished: '2016-04-24T02:13:47.474Z'
-dateModified: '2016-04-24T02:12:36.750Z'
+datePublished: '2016-04-24T02:24:50.169Z'
+dateModified: '2016-04-24T02:24:49.703Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-24-enviroconcepts-is-proud-to-host-and-post-thought-provoking-c.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-24-enviroconcepts-is-proud-to-host-and-post-thought-provoking-c.md
-published: true
 url: enviroconcepts-is-proud-to-host-and-post-thought-provoking-c/index.html
 _type: Article
 
